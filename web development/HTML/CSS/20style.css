@@ -1,0 +1,21 @@
+/* universal selector */
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+/* element selector */
+h1,h3{
+    color: #b92b27;
+}
+#login{
+    background-color: white;
+}
+#signup{
+    background-color: #b92b27;
+}
+.a{
+   background-color: green; 
+   color: blue;
+}
+div p{
+    
+}
